@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">511K</string>
+    <string name="skip">Skip</string>
+    <string name="first_slide">first_slide</string>
+    <string name="description">description</string>
+    <string name="second_slide" />
+    <string name="third_slide" />
+    <string name="soon">Soon!</string>
+    <color name="blue">#47a6ff</color>
+</resources>
